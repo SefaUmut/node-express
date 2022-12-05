@@ -1,6 +1,12 @@
 # Node-Express
 JS - TypeScript
 
+## Available Scripts
+  In the project directory, you can run:
+ ### `tsc -w`
+ ### `npm install`
+ ### `npm start`
+
  * You can learn about the following topics:
 
  * Types and how to use
